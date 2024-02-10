@@ -4,6 +4,9 @@ Credits : Eric Pogue for Azure Template, ChatGPT
 
 
 # Instructions
+This repository is a Web Resume site that displays a resume as a pdf hosted on Microsoft Azure.
+
+
 1-Copy Repository<br>
 2-Open Microsoft  Azure and select to create a web app<br>
 3-Choose the desired settings for your web app and LINK your github account to Microsoft Azure, making sure to choose the repository you just copied<br>
